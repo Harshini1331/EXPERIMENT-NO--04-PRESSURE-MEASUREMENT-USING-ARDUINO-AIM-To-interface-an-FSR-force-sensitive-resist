@@ -1,7 +1,4 @@
 
-# EX. NO: 3
-# DATE:
-
 # <p align="center">PRESSURE MEASUREMENT USING ARDUINO</p>
 
 
