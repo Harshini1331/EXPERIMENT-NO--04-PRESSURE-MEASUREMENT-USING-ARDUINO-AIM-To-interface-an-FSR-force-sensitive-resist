@@ -1,4 +1,8 @@
-# EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+
+# EX. NO: 3
+# DATE:
+
+# <p align="center">PRESSURE MEASUREMENT USING ARDUINO</p>
 
 
 ## AIM: 
